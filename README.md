@@ -9,7 +9,7 @@ In this way, we want to create unbiased data with which a fair AI can be trained
 1. find nice datasets
 2. make prediction (e.g predict pay)
 3. statistik dies das -> show bias in prediction (e.g towards woman)
-4. based on statistiks adjust training set
+4. based on statistics adjust training set
 5. retrain
 6. profit.
 
